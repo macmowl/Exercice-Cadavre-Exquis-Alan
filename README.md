@@ -23,3 +23,8 @@ Quand soudain..
 Rendez-vous sur le [wikipedia chat](https://fr.wikipedia.org/wiki/Chat) pour tout apprendre sur les chats! 
 
 Et tout les fichiers et dossiers sont modifié
+
+===============
+1. Le **lapin** mange des *carottes*
+2. La __vache__ mange du _pain_
+3. L'homme mange la vache

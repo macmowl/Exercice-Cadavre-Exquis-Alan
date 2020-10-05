@@ -21,3 +21,5 @@ Une équipe qui travaillait chez Becode
 Quand soudain..
 
 Rendez-vous sur le [wikipedia chat](https://fr.wikipedia.org/wiki/Chat) pour tout apprendre sur les chats! 
+
+Et tout les fichiers et dossiers sont modifié
